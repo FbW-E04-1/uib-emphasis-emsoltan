@@ -16,5 +16,9 @@ article {
     border: 5px #023047 solid;
     margin: 10px;
     padding: 5px;
-    
+
+}
+.caps {
+    text-transform: uppercase;
+    text-decoration: underline;
 }
