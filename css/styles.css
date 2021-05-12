@@ -1,0 +1,20 @@
+body {
+    background-color: #d8e2dc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+h1, h2 {
+    color: #457b9d
+}
+p {
+    color: #234249;
+}
+a {
+    color: #219ebc;
+}
+article {
+    border: 5px #023047 solid;
+    margin: 10px;
+    padding: 5px;
+    
+}
